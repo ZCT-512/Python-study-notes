@@ -1,0 +1,10 @@
+2020/08/11 00:17:45 06_logging.py [lines:17] DEBUG debug message!
+2020/08/11 00:17:45 06_logging.py [lines:18] INFO info message!
+2020/08/11 00:17:45 06_logging.py [lines:19] WARNING warning message!
+2020/08/11 00:17:45 06_logging.py [lines:20] ERROR error message!
+2020/08/11 00:17:45 06_logging.py [lines:21] CRITICAL critical message!
+2020/08/11 00:24:44 06_logging.py [lines:17] DEBUG debug message!
+2020/08/11 00:24:44 06_logging.py [lines:18] INFO info message!
+2020/08/11 00:24:44 06_logging.py [lines:19] WARNING warning message!
+2020/08/11 00:24:44 06_logging.py [lines:20] ERROR error message!
+2020/08/11 00:24:44 06_logging.py [lines:21] CRITICAL critical message!
